@@ -1,0 +1,7 @@
+c:\users\windows10\source\repos\module16_prac\module16_prac\bin\Debug\module16_prac.exe.config
+c:\users\windows10\source\repos\module16_prac\module16_prac\bin\Debug\module16_prac.exe
+c:\users\windows10\source\repos\module16_prac\module16_prac\bin\Debug\module16_prac.pdb
+c:\users\windows10\source\repos\module16_prac\module16_prac\obj\Debug\module16_prac.csprojAssemblyReference.cache
+c:\users\windows10\source\repos\module16_prac\module16_prac\obj\Debug\module16_prac.csproj.CoreCompileInputs.cache
+c:\users\windows10\source\repos\module16_prac\module16_prac\obj\Debug\module16_prac.exe
+c:\users\windows10\source\repos\module16_prac\module16_prac\obj\Debug\module16_prac.pdb
